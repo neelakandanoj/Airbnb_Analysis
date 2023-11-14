@@ -8,11 +8,11 @@ from PIL import Image
 
 # Setting up page configuration
 # icon = Image.open("ICN.png")
-st.set_page_config(page_title= "Airbnb Data Visualization | By Jafar Hussain",
+st.set_page_config(page_title= "Airbnb Data Visualization | By Neelakandan",
                 #    page_icon= icon,
                    layout= "wide",
                    initial_sidebar_state= "expanded",
-                   menu_items={'About': """# This dashboard app is created by *Jafar Hussain*!
+                   menu_items={'About': """# This dashboard app is created by *Neelakandan*!
                                         Data has been gathered from mongodb atlas"""}
                   )
 
