@@ -12,7 +12,7 @@
 - Streamlit - (To Create Graphical user Interface)
 - Tableau dashboard - To Create Tableau dashboard)
 
-### Dashboard Link[https://public.tableau.com/views/Final_Airbnb_visualization/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link]
+### [Dashboard Link](https://public.tableau.com/views/Final_Airbnb_visualization/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Workflow :
 
