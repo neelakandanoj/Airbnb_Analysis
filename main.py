@@ -8,7 +8,7 @@ from PIL import Image
 
 # Setting up page configuration
 # icon = Image.open("ICN.png")
-st.set_page_config(page_title= "Airbnb Data Visualization | By Neelakandan",
+st.set_page_config(page_title= "Airbnb Data Visualization | Neelakandan",
                 #    page_icon= icon,
                    layout= "wide",
                    initial_sidebar_state= "expanded",
@@ -37,8 +37,9 @@ df = pd.read_csv('Airbnb_data.csv')
 # HOME PAGE
 if selected == "Home":
     # Title Image
-    # st.image("title.png")
-    col1,col2 = st.columns(2,gap= 'medium')
+    st.image("download.jpg")
+    st.title(":red[Airbnb_visualization]")
+    col1,col2 = st.columns(2)
     col1.markdown("## :blue[Domain] : Travel Industry, Property Management and Tourism")
     col1.markdown("## :blue[Technologies used] : Python, Pandas, Plotly, Streamlit, MongoDB")
     col1.markdown("## :blue[Overview] : To analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. ")
