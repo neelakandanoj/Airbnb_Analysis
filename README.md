@@ -10,6 +10,9 @@
 - Pandas - (To Clean and maipulate the data)
 - Pymongo - (To store and retrieve the data by connecting with MongoDB Atlas)
 - Streamlit - (To Create Graphical user Interface)
+- Tableau dashboard - To Create Tableau dashboard)
+
+### Dashboard Link[https://public.tableau.com/views/Final_Airbnb_visualization/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link]
 
 ### Workflow :
 
